@@ -6,14 +6,14 @@
 
   <br />
 
-  [cite_start]<img src="https://img.shields.io/badge/Education-B.Tech_Information_Technology-4B0082?style=for-the-badge&logo=googlescholar&logoColor=white" alt="B.Tech IT" /> [cite: 10]
-  [cite_start]<img src="https://img.shields.io/badge/Institution-Panimalar_Engineering_College-8A2BE2?style=for-the-badge&logo=academia&logoColor=white" alt="Panimalar Engineering College" /> [cite: 10]
-  [cite_start]<img src="https://img.shields.io/badge/Location-Chennai,_Tamil_Nadu,_India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /> [cite: 2]
+ <img src="https://img.shields.io/badge/Education-B.Tech_Information_Technology-4B0082?style=for-the-badge&logo=googlescholar&logoColor=white" alt="B.Tech IT" /> [cite: 10]
+ <img src="https://img.shields.io/badge/Institution-Panimalar_Engineering_College-8A2BE2?style=for-the-badge&logo=academia&logoColor=white" alt="Panimalar Engineering College" /> [cite: 10]
+ <img src="https://img.shields.io/badge/Location-Chennai,_Tamil_Nadu,_India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /> [cite: 2]
 
   <br />
 
-  [cite_start]<a href="https://vinothv.vercel.app"><img src="https://img.shields.io/badge/Portfolio-vinothv.vercel.app-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a> [cite: 2]
-  [cite_start]<a href="https://linkedin.com/in/vinothdev24"><img src="https://img.shields.io/badge/LinkedIn-vinothdev24-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> [cite: 2]
+<a href="https://vinothv.vercel.app"><img src="https://img.shields.io/badge/Portfolio-vinothv.vercel.app-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a> 
+ <a href="https://linkedin.com/in/vinothdev24"><img src="https://img.shields.io/badge/LinkedIn-vinothdev24-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> [cite: 2]
   [cite_start]<a href="mailto:vinoth.th07@gmail.com"><img src="https://img.shields.io/badge/Email-vinoth.th07@gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> [cite: 2]
   [cite_start]<a href="https://github.com/vinozz-dev"><img src="https://img.shields.io/badge/GitHub-vinozz--dev-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> [cite: 2]
 
@@ -109,7 +109,7 @@
 
 | Feature | Details |
 | :--- | :--- |
-| **Stack** | [cite_start]React.js, TypeScript, Tailwind CSS, Vite [cite: 27] |
+| **Stack** | React.js, TypeScript, Tailwind CSS, Vite [cite: 27] |
 | **Scale** | Single Page Application (SPA) architecture |
 | **Performance** | [cite_start]Vite-powered hot module replacement and build optimizations [cite: 27, 29] |
 | **Security** | [cite_start]SSL-secured Vercel deployment [cite: 2] |
